@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookRecord>
+    <books>
+        <bid>123</bid>
+        <dept>IT</dept>
+        <bName>AJT</bName>
+        <bPublisher>McGraw Hill</bPublisher>
+        <bAuthor>Neel Patel</bAuthor>
+        <avail>20</avail>
+    </books>
+    <books>
+        <bid>456</bid>
+        <dept>Computer</dept>
+        <bName>TOC</bName>
+        <bPublisher>Technical</bPublisher>
+        <bAuthor>George</bAuthor>
+        <avail>10</avail>
+    </books>
+    <books>
+        <bid>788</bid>
+        <dept>IT</dept>
+        <bName>AI</bName>
+        <bPublisher>Tech Max</bPublisher>
+        <bAuthor>Kenny</bAuthor>
+        <avail>2</avail>
+    </books>
+    <books>
+        <bid>101</bid>
+        <dept>IT</dept>
+        <bName>SE</bName>
+        <bPublisher>Atul Prakshan</bPublisher>
+        <bAuthor>Jenifer</bAuthor>
+        <avail>7</avail>
+    </books>
+    <books>
+        <bid>102</bid>
+        <dept>Computer</dept>
+        <bName>COA</bName>
+        <bPublisher>Easy Solution</bPublisher>
+        <bAuthor>Mikin Patel</bAuthor>
+        <avail>10</avail>
+    </books>
+</bookRecord>
