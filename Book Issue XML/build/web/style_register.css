@@ -1,0 +1,65 @@
+            body{
+                background-color: white;
+            }
+            h1{
+                color: blanchedalmond;
+            }
+            .mainbox{
+                border: 2px solid black;
+                position: absolute;
+                background-color: lightslategray;
+                border-radius: 45px;
+                height: 300px;
+                width: 300px;
+                float: left;
+                top: 130px;
+                left: 470px;
+                padding: 50px;
+            }
+            .logincenter{
+                position: absolute;
+                top: 120px;
+                left: 35px;               
+                text-align: center;
+            }
+            .button{
+                color: white;
+                background-color: crimson;
+                width: 100px;
+                border: 2px solid black;
+                border-radius: 30px;
+                height: 30px;
+            }
+            .button:active{
+                text-decoration: none;
+            }
+            .inptxt{
+                position: absolute;
+                width: 320px;
+                height: 20px;
+            }
+            .move{
+                float: left;
+                position: absolute;
+                top: 225px;
+                left: 110px;
+            }
+            h1{
+                position: absolute;
+                top: 40px;  
+                left: 130px;
+                text-align: center;
+            }
+            .show{
+                display: none;
+            }
+            .alert{
+                width: 400px;
+                color: white;
+                position: absolute;
+                top: 507px;
+                font-size: 20px;
+                left: 470px;
+                text-align: center;
+                
+            }

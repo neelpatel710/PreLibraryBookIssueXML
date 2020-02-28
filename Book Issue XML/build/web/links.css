@@ -1,0 +1,69 @@
+        .middlebox{
+            height: 390px;
+            width: 500px;
+            position: relative;
+            top:-20px;
+            left: 520px;
+        }
+        .btn{
+            border: 2px solid royalblue;
+            border-radius: 1px;
+            background-color: white;
+        }
+        .btnsub{
+            position: relative;
+            left: 90px;
+            top: 40px;
+        }
+        .btnsubstatus{
+            position: relative;
+            left: 90px;
+            top: 23px;
+        }
+        .table_cs{
+            cellpadding: 20px;
+            border-collapse: collapse;
+            width: 700px;
+        }
+        th{
+            background-color: #4CAF50;
+            font-size: 20px;
+            color: white;
+        }
+        tr:nth-child(even){
+            background-color: #f2f2f2;
+        }
+        .response{
+            position: absolute;
+            top: 458px;
+            font-size: 20px;
+            width: 565px;
+            color: red;
+            left: 381px;
+            text-align: center;
+        }
+        .alert{
+            position: absolute;
+            top: 520px;
+            font-size: 20px;
+            color: red;
+            left: 680px;
+            text-align: center;
+        }
+        h1.name{
+            position: absolute;
+            width: 416px;
+            height: 38px;
+            top: 148px;
+            font-size: 19px;
+            font-family: "courier";
+        }
+        .alert_status{
+            position: absolute;
+            top: 318px;
+            font-size: 20px;
+            width: 565px;
+            color: red;
+            left: 392px;
+            text-align: center;
+        }

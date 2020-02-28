@@ -1,0 +1,59 @@
+.middlebox{
+    height: 390px;
+    width: 500px;
+    position: relative;
+    margin:0px;
+    padding:0px;
+    top: -20px;
+}
+.btn{
+    border: 2px solid royalblue;
+    border-radius: 20px;
+    background-color: white;
+}
+.btnsub{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.table_your{
+    cellpadding: 20px;
+    border-collapse: collapse;
+    width: 1350px;
+    text-align: center;
+    position: absolute;
+    right: -330px;
+    top: -53px;
+}
+.table_all{
+    cellpadding: 20px;
+    border-collapse: collapse;
+    width: 1350px;
+    text-align: center;
+    position: absolute;
+    right: 200px;
+}
+th{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.link:link{
+    color: red;
+}
+.link:unvisited{
+    color: red;
+}
+h1.name{
+    position: relative;
+    left: -1045px;
+    top: -20px;
+    font-size: 25px;
+    font-family: "courier";
+   
+}

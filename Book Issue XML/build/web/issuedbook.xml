@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="xml/xsl" version="1.0" href="yourbookdetails.xsl"?><issueBooks>
+    <book uid="6">
+        <dept>IT</dept>
+        <userName>avadhpatel</userName>
+        <bookName>AJT</bookName>
+        <bookPub>McGraw Hill</bookPub>
+        <day_i>10</day_i>
+        <month_i>07</month_i>
+        <year_i>2018</year_i>
+        <day_r>12</day_r>
+        <month_r>07</month_r>
+        <year_r>2018</year_r>
+    </book>
+    <book uid="7">
+        <dept>Computer</dept>
+        <userName>avadhpatel</userName>
+        <bookName>TOC</bookName>
+        <bookPub>Technical</bookPub>
+        <day_i>10</day_i>
+        <month_i>07</month_i>
+        <year_i>2018</year_i>
+        <day_r>16</day_r>
+        <month_r>07</month_r>
+        <year_r>2018</year_r>
+    </book>
+    
+    <book uid="10">
+        <dept>IT</dept>
+        <userName>henilpatel1102</userName>
+        <bookName>SE</bookName>
+        <bookPub>Atul Prakshan</bookPub>
+        <day_i>18</day_i>
+        <month_i>07</month_i>
+        <year_i>2018</year_i>
+        <day_r>20</day_r>
+        <month_r>07</month_r>
+        <year_r>2018</year_r>
+    </book>
+    
+</issueBooks>

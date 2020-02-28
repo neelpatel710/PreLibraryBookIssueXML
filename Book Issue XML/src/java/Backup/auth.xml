@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE memberRecord[
+<!ELEMENT memberRecord (member)>
+<!ELEMENT member (firstName,lastName,emailID,userName,password)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT emailID (#PCDATA)>
+<!ELEMENT userName (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+]>
+
+<memberRecord>
+    <member>
+        <firstName>ABC</firstName>
+        <lastName>XYZ</lastName>
+        <emailID>a@gmail.com</emailID>
+        <userName>abcxyz</userName>
+        <password>pqr</password>
+    </member>
+</memberRecord>

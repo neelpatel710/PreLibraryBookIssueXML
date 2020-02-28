@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<issueBooks>
+    <book>
+        <uid>1</uid>
+        <dept>IT</dept>
+        <userName>neelpatel710</userName>
+        <bookName>AJT</bookName>
+        <bookPub>McGraw Hill</bookPub>
+        <day_i>06</day_i>
+        <month_i>06</month_i>
+        <year_i>2018</year_i>
+        <day_r>09</day_r>
+        <month_r>06</month_r>
+        <year_r>2018</year_r>
+    </book>
+    <book>
+        <uid>2</uid>
+        <dept>IT</dept>
+        <userName>neelpatel710</userName>
+        <bookName>AI</bookName>
+        <bookPub>Tech Max</bookPub>
+        <day_i>07</day_i>
+        <month_i>07</month_i>
+        <year_i>2018</year_i>
+        <day_r>09</day_r>
+        <month_r>07</month_r>
+        <year_r>2018</year_r>
+    </book>
+    <book>
+        <uid>3</uid>
+        <dept>Computer</dept>
+        <userName>neelpatel710</userName>
+        <bookName>COA</bookName>
+        <bookPub>Easy Solution</bookPub>
+        <day_i>07</day_i>
+        <month_i>07</month_i>
+        <year_i>2018</year_i>
+        <day_r>11</day_r>
+        <month_r>07</month_r>
+        <year_r>2018</year_r>
+    </book>
+</issueBooks>
